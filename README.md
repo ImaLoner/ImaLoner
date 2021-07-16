@@ -1,3 +1,4 @@
+
 ### Hi there, I'm Renz  👋
 
 
@@ -11,16 +12,15 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
  
-###  <img src="https://github.com/ImaLoner/ImaLoner/blob/main/assets/gifs/email.gif" alt="email" width="40px" > Connect with me:
+###  <img src="https://github.com/ImaLoner/ImaLoner/blob/main/assets/gifs/email.gif" alt="email" width="40px" > Connect with me:  <!--Get in touch-->
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png" />][portfolio]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />][linkedin]
-
-
+ 
 
 <br />
 
-### Languages and Tools:
+### <img src="https://i.pinimg.com/originals/00/94/18/009418460183d05cbbff41179436b3eb.gif" width="40px" height="30px"/>Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -75,3 +75,37 @@
 
 [portfolio]: http://portfolio.com
 [linkedin]: https://www.linkedin.com/in/renz-bongot/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+[<img align="left" alt="Portfolio" width="22px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png" />][portfolio] 
+-->
+
+<!-- soon
+<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" style="max-width:100%;">
+
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width:100%;">
+
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width:100%;">
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" style="max-width:100%;"> -->
+
+
+ 
+<!--     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>  -->
+<!--     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> -->
+<!--     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>  -->
+<!--     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a> -->
+<!--     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
+
