@@ -1,17 +1,28 @@
 
-### Hi there, I'm Renz  👋
+### Hi there, I'm Renz <img src="https://github.com/ImaLoner/ImaLoner/blob/84533943b808f12f881268877b63830572a8197e/assets/gifs/chibi.gif" width="150">
 
 
 
 ## I'm a Fresh Graduate Web Developer!!
 
 - 🔭 I just launched my first course:  
-- 🌱 I’m currently learning everything 🤣
+- 🌱 <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="30" data-canonical-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="max-width:100%;"> I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Learn Nodejs, MongoDb, Laravel & React
-- ⚡ Fun fact: I love to draw and play guitar / drums
+-  <img src="https://github.com/ImaLoner/ImaLoner/blob/b05b69c44524aa4a9cbf8d64cfba7122af9e49b1/assets/gifs/cat-meme.gif" width="15px"> Fun fact: I love to draw and play guitar / drums
 
- 
+
+- <img src="https://github.com/ImaLoner/ImaLoner/blob/84533943b808f12f881268877b63830572a8197e/assets/gifs/cat-computer.gif" width="30px"> Currently working on my personal projects and enhancing my web development knowledge.
+-
+- 
+- <img src="https://github.com/ImaLoner/ImaLoner/blob/84533943b808f12f881268877b63830572a8197e/assets/gifs/chopprt.gif" width="100px">
+- <img src="https://github.com/ImaLoner/ImaLoner/blob/84533943b808f12f881268877b63830572a8197e/assets/gifs/computer.gif" width="50px"> Currently working on my personal projects and enhancing my web development knowledge. 
+
+- <img src="https://github.com/ImaLoner/ImaLoner/blob/84533943b808f12f881268877b63830572a8197e/assets/gifs/menherakun.gif" width="100px">
+- <img src="https://github.com/ImaLoner/ImaLoner/blob/84533943b808f12f881268877b63830572a8197e/assets/gifs/studying.gif" width="100px">
+- <img src="https://github.com/ImaLoner/ImaLoner/blob/84533943b808f12f881268877b63830572a8197e/assets/gifs/win99.gif" width="50px">
+
+
 - <img src="https://github.com/ImaLoner/ImaLoner/blob/bc8b1586f7f7a3de0d24a0f902b92c50e2b38e31/assets/pictures/files-image-sm.png" width="15px"> All of my projects are available at
  
 ###  <img src="https://github.com/ImaLoner/ImaLoner/blob/main/assets/gifs/email.gif" alt="email" width="40px" > Connect with me:  <!--Get in touch-->
@@ -83,7 +94,11 @@
 
 
 
-
+<details>
+ <img src="https://github.com/ImaLoner/ImaLoner/blob/84533943b808f12f881268877b63830572a8197e/assets/gifs/eating-chibi-boy.gif" width="100%">
+ 
+ 
+ <details>
 
 
 
