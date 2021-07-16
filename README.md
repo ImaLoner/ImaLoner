@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
  
-### Connect with me:
+###  <img src="https://github.com/ImaLoner/ImaLoner/blob/main/assets/gifs/rmail%20(1).gif" alt="email"> Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png" />][portfolio]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />][linkedin]
@@ -63,6 +63,8 @@
 <br/>
 
 <span>
+
+ 
 <img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="50" data-canonical-src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" style="max-width:100%;"> 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"> Github Views and Followers
     <img src="https://komarev.com/ghpvc/?username=renzxxiii">
