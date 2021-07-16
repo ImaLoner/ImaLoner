@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Renz <img src="https://github.com/ImaLoner/ImaLoner/blob/84533943b808f12f881268877b63830572a8197e/assets/gifs/chibi.gif" width="150">
 
-
+![Profile last updated](https://img.shields.io/github/last-commit/ImaLoner/ImaLoner?label=Last%20Update&color=blue)
 
 ## I'm a Fresh Graduate Web Developer!!
 
