@@ -95,6 +95,7 @@
 
 
 <details>
+ <summary>click for more</summary>
  <img src="https://github.com/ImaLoner/ImaLoner/blob/84533943b808f12f881268877b63830572a8197e/assets/gifs/eating-chibi-boy.gif" width="100%">
  
  
