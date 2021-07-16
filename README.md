@@ -12,6 +12,8 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
  
+- <img src="https://github.com/ImaLoner/ImaLoner/blob/bc8b1586f7f7a3de0d24a0f902b92c50e2b38e31/assets/pictures/files-image-sm.png" width="15px"> All of my projects are available at
+ 
 ###  <img src="https://github.com/ImaLoner/ImaLoner/blob/main/assets/gifs/email.gif" alt="email" width="40px" > Connect with me:  <!--Get in touch-->
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png" />][portfolio]
