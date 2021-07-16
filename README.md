@@ -11,7 +11,7 @@
 - 🥅 2021 Goals: Learn Nodejs, MongoDb, Laravel & React
 -  <img src="https://github.com/ImaLoner/ImaLoner/blob/b05b69c44524aa4a9cbf8d64cfba7122af9e49b1/assets/gifs/cat-meme.gif" width="15px"> Fun fact: I love to draw and play guitar / drums
 
-
+-💻
 - <img src="https://github.com/ImaLoner/ImaLoner/blob/84533943b808f12f881268877b63830572a8197e/assets/gifs/cat-computer.gif" width="30px"> Currently working on my personal projects and enhancing my web development knowledge.
 -
 - 
