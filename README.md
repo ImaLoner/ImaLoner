@@ -41,5 +41,35 @@
 
 
 
+## 📈 My Github Stats
+
+  <br/>
+    <a href="https://github.com/ImaLoner/github-readme-stats"><img alt="Renz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ImaLoner&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0&color=268aa6&line=268aa6" /></a>
+  <a href="https://github.com/ImaLoner/github-readme-stats"><img alt="Renz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImaLoner&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
+  <br/>
+
+<br/>
+<br/>
+
+<a href="https://github.com/ImaLoner/github-readme-activity-graph"><img alt="Renz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ImaLoner&bg_color=060A0CD0&color=268aa6&line=268aa6&point=FFFFFF&hide_border=true" /></a>
+
+<p align="center">
+    <a href="https://github.com/ImaLoner/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ImaLoner&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+<br/>
+<br/>
+
+<span>
+<img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="50" data-canonical-src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" style="max-width:100%;"> 
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter"> Github Views and Followers
+    <img src="https://komarev.com/ghpvc/?username=renzxxiii">
+</a>
+<a href="https://github.com/renzxxiii?tab=followers"><img src="https://img.shields.io/github/followers/renzxxiii?label=Followers&style=social" alt="GitHub Badge"></a>
+</span>
+
+
 [portfolio]: http://portfolio.com
 [linkedin]: https://www.linkedin.com/in/renz-bongot/
