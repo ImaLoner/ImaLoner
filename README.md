@@ -1,6 +1,13 @@
 
-### Hi there, I'm Renz <img src="https://github.com/ImaLoner/ImaLoner/blob/84533943b808f12f881268877b63830572a8197e/assets/gifs/chibi.gif" width="150">
+### Hi there, I'm Renz <img src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/chibi-thumbs-up-min.gif" width="150">
 
+
+
+<img src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/anime-boy-min.gif" width="150">
+
+<img src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/menherakun-min.gif" width="150">
+
+<img src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/pusheencode-min.gif" width="150">
 ![Profile last updated](https://img.shields.io/github/last-commit/ImaLoner/ImaLoner?label=Last%20Update&color=blue)
 
 ## I'm a Fresh Graduate Web Developer!!
@@ -19,7 +26,7 @@
 - <img src="https://github.com/ImaLoner/ImaLoner/blob/84533943b808f12f881268877b63830572a8197e/assets/gifs/chopprt.gif" width="100px">
 - <img src="https://github.com/ImaLoner/ImaLoner/blob/84533943b808f12f881268877b63830572a8197e/assets/gifs/computer.gif" width="50px"> Currently working on my personal projects and enhancing my web development knowledge. 
 
-- <img src="https://github.com/ImaLoner/ImaLoner/blob/84533943b808f12f881268877b63830572a8197e/assets/gifs/menherakun.gif" width="100px">
+- <img src="https://github.com/ImaLoner/ImaLoner/blob/84533943b808f12f881268877b63830572a8197e/assets/gifs/manherakun-cat-min.gif" width="100px">
 - <img src="https://github.com/ImaLoner/ImaLoner/blob/84533943b808f12f881268877b63830572a8197e/assets/gifs/studying.gif" width="100px">
 - <img src="https://github.com/ImaLoner/ImaLoner/blob/84533943b808f12f881268877b63830572a8197e/assets/gifs/win99.gif" width="50px">
 
