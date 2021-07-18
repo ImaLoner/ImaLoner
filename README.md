@@ -5,7 +5,7 @@
 
 <img src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/anime-boy-min.gif" width="150">
 
-<img src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/menherakun-min.gif" width="150">
+<img src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/manherakun-cat-min.gif" width="150">
 
 <img src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/pusheencode-min.gif" width="150">
 ![Profile last updated](https://img.shields.io/github/last-commit/ImaLoner/ImaLoner?label=Last%20Update&color=blue)
