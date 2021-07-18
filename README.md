@@ -1,4 +1,4 @@
-
+<img align="right"  alt="Anime waving" src="https://i.pinimg.com/originals/26/d8/80/26d880987d41abe9ae0cada97ac05aa7.gif" width="120px">
 ### Hi there, I'm Renz <img src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/chibi-thumbs-up-min.gif" width="150">
 
 
@@ -7,7 +7,7 @@
 
 <img src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/manherakun-cat-min.gif" width="150">
 
-<img src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/pusheencode-min.gif" width="150">
+<img src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/pusheen-code-min.gif" width="150">
 ![Profile last updated](https://img.shields.io/github/last-commit/ImaLoner/ImaLoner?label=Last%20Update&color=blue)
 
 ## I'm a Fresh Graduate Web Developer!!
