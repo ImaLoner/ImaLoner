@@ -1,7 +1,7 @@
 <!--  
 <img alt="Name Banner" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/banner/name-banner.png" width="100%" > -->
 
-<img alt="Name Banner" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/banner/name-banner-1loop.gif" width="100%" >
+<!-- <img alt="Name Banner" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/banner/name-banner-1loop.gif" width="100%" >  -->
 
 <img alt="Name Banner" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/banner/name-banner-final.gif" width="100%" >
 
