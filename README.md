@@ -2,15 +2,15 @@
 <img alt="Anime waving" src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" width="100%" >
 <img alt="Anime waving" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/banner/name-banner.png" width="100%" >
 
-
+<!-- 
 <img alt="Anime waving" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/banner/compressed.gif" width="100%" >
 
 
 <img alt="Anime waving" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/banner/both-banner-gif-min.gif" width="100%" >
 <img alt="Anime waving" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/banner/imageedit_5_3945027158-min.gif" style="float: right;" width="50%" >
-
-<img alt="Anime waving" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/banner/name-banner.gif" width="100%" >
-
+ -->
+<!-- <img alt="Anime waving" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/banner/name-banner.gif" width="100%" >
+ -->
 <p>
  
 <!--   src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/banner/name-mp4.mp4"  -->
